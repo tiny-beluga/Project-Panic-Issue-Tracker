@@ -1,1 +1,2 @@
-# Project-Panic-Issue-Tracker
+# Project Panic
+2D Rhythm Shooter
